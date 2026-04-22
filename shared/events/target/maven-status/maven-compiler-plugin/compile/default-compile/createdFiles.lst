@@ -1,0 +1,2 @@
+com/tradecards/shared/events/OrderCreatedEvent.class
+com/tradecards/shared/events/OrderCreatedEvent$OrderCreatedEventBuilder.class

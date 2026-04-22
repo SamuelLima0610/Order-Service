@@ -1,0 +1,7 @@
+/home/samuelvitoriolima/Documentos/repositories/orders-spring-boot/services/order-service/src/test/java/com/tradecards/orderservice/presentation/controllers/OrderControllerTest.java
+/home/samuelvitoriolima/Documentos/repositories/orders-spring-boot/services/order-service/src/test/java/com/tradecards/orderservice/domain/usecases/ListOrdersUseCaseTest.java
+/home/samuelvitoriolima/Documentos/repositories/orders-spring-boot/services/order-service/src/test/java/com/tradecards/orderservice/domain/usecases/DeleteOrderUseCaseTest.java
+/home/samuelvitoriolima/Documentos/repositories/orders-spring-boot/services/order-service/src/test/java/com/tradecards/orderservice/domain/usecases/CreateOrderUseCaseTest.java
+/home/samuelvitoriolima/Documentos/repositories/orders-spring-boot/services/order-service/src/test/java/com/tradecards/orderservice/OrderserviceApplicationTests.java
+/home/samuelvitoriolima/Documentos/repositories/orders-spring-boot/services/order-service/src/test/java/com/tradecards/orderservice/domain/usecases/GetOrderUseCaseTest.java
+/home/samuelvitoriolima/Documentos/repositories/orders-spring-boot/services/order-service/src/test/java/com/tradecards/orderservice/application/services/OrderServiceTest.java

@@ -1,0 +1,7 @@
+com/tradecards/orderservice/OrderserviceApplicationTests.class
+com/tradecards/orderservice/domain/usecases/CreateOrderUseCaseTest.class
+com/tradecards/orderservice/domain/usecases/ListOrdersUseCaseTest.class
+com/tradecards/orderservice/domain/usecases/GetOrderUseCaseTest.class
+com/tradecards/orderservice/presentation/controllers/OrderControllerTest.class
+com/tradecards/orderservice/domain/usecases/DeleteOrderUseCaseTest.class
+com/tradecards/orderservice/application/services/OrderServiceTest.class
