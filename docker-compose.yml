@@ -68,6 +68,11 @@ services:
   # Build: cd services/order-service && mvn clean package
   # Run: java -jar services/order-service/target/order-service-0.0.1-SNAPSHOT.jar
   #
+  # payment-service: Consumes order.created events and creates payments
+  # Port: 8082
+  # Build: cd services/payment-service && mvn clean package
+  # Run: java -jar services/payment-service/target/payment-service-0.0.1-SNAPSHOT.jar
+  #
   # To add new services, follow the pattern:
   # service-name:
   #   build:
